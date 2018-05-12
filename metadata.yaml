@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43578
     wikipedia: https://en.wikipedia.org/wiki/Nicolas_Appert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46022#Le-livre-de-tous-les-m-nages--13-ou-l-art-de-conserver-pendant-plusieurs-ann-es-toutes-les-su_
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2014-06-18'
 gutenberg_type: Text
