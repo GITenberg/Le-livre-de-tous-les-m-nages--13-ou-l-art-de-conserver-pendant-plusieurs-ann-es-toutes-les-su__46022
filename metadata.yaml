@@ -1,0 +1,30 @@
+_repo: Le-livre-de-tous-les-m-nages--13-ou-l-art-de-conserver-pendant-plusieurs-ann-es-toutes-les-su__46022
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46022-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Appert, Nicolas
+    birthdate: 1749
+    deathdate: 1841
+    gutenberg_agent_id: '43578'
+    url: http://www.gutenberg.org/2009/agents/43578
+    wikipedia: https://en.wikipedia.org/wiki/Nicolas_Appert
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46022'
+  lccn: '48040051'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canning and preserving'
+- !lcc 'TX'
+title: "Le livre de tous les ménages\r\nou l'art de conserver pendant plusieurs années\
+  \ toutes les substances animales et végétales"
+url: http://www.gutenberg.org/ebooks/46022
